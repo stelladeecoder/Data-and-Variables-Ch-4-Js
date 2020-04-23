@@ -23,7 +23,7 @@ console.log(typeof 3.14);
 console.log(typeof "17");
 
 // commas are not allowed in integers 
-console.log(42,000);
+console.log(42, 000);
 
 // string to a number that is NAN
 console.log(Number("23bottles"));
@@ -58,8 +58,8 @@ myNameArray[0]; //should return 'Chris'
 myNumberArray[2]; //should return 40
 
 //Objects (In programming, an object is a structure of code that models a real-life object.)
-let dog = { name : 'Spot', breed : 'Dalmation'}; 
-dog.name 
+let dog = { name: 'Spot', breed: 'Dalmation' };
+dog.name
 
 //constants — a value that once declared can't be changed. 
 //const daysInWeek = 7;
